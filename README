@@ -1,3 +1,12 @@
 Patches for the Openschoolproxy.de Webinterface
 
 
+
+
+
+Directory					Patch description
++osp.webinterface-patches
+|
++-+ ospip
+  |
+  +-- room_ip_list				selectable list with ips and roomnumers
