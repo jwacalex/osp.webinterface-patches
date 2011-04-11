@@ -1,12 +1,14 @@
 Patches for the Openschoolproxy.de Webinterface
 
+(Project is in German -> German description)
 
 
 
 
-Directory					Patch description
+Verzeichnis						Beschreibung des Patches
 +osp.webinterface-patches
 |
-+-+ ospip
++-+ osp_ip
   |
-  +-- room_ip_list				selectable list with ips and roomnumers
+  +-- room_ip_list					Dieser Patch fügt dem Lehrerinterface eine Liste mit Räumen hinzu, sodass
+							die IP-Bereiche nicht immer eingetippt sein müssen
